@@ -1,4 +1,4 @@
 # Semiconductor Fabrication Modeling
 - [Fluorine Etching Datasets](https://github.com/Nimitt-nim/FluorineEtchingData)
-- [Link to Fluorine Etching Machine Learning](https://github.com/Nimitt-nim/FluorineEtchingModelling)
-- [Link to HCl Etching for GAAFET Dataset and modelling](https://github.com/Nimitt-nim/HClEtchingGAAFET)
+- [Fluorine Etching Machine Learning](https://github.com/Nimitt-nim/FluorineEtchingModelling)
+- [HCl Etching for GAAFET Datasets and modelling](https://github.com/Nimitt-nim/HClEtchingGAAFET)
